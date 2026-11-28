@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /charity/
+Disallow: /api/
+Disallow: /storage/
+Disallow: /login.php
+Disallow: /register.php
+Allow: /
+Sitemap: /sitemap.php
